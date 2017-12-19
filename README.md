@@ -11,7 +11,7 @@ PyAIML：地址：https://github.com/andelf/PyAIML
 
 python2.x
 
-安装框架：bottle，，直接使用pip 安装即可，`pip install bottle`。
+安装框架：bottle，直接使用pip 安装即可，`pip install bottle`。
 
 
 #### 使用方法：
